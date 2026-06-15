@@ -1,8 +1,9 @@
 # KB PDF Compressor
 
 A lightweight Linux desktop application for compressing PDF files to a target file size.
-## Use Strict Target Size Mode for better results.
-The compressor will always try to reduce the file below your target size whenever possible.
+
+# Use "Strict Target Size Mode" for better results.
+The compressor will always try to reduce the file below your target.
 
 ## Features
 
