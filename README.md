@@ -3,7 +3,7 @@
 A lightweight Linux desktop application for compressing PDF files to a target file size.
 
 # Use "Strict Target Size Mode" for better results.
-The compressor will always try to reduce the file below your target.
+The compressor will always try to reduce the file below your target. ⚠️This Option don't care about quality. ⚠️
 
 ## Features
 
@@ -37,12 +37,12 @@ The compressor will always try to reduce the file below your target.
 ## Screenshots
 ### Main Window
 
-![Main Window] <img width="1085" height="805" alt="Screenshot from 2026-06-14 21-09-37" src="https://github.com/user-attachments/assets/4bf6672d-b983-4663-aaac-df4e0b940a19" />
+ <img width="1085" height="805" alt="Screenshot from 2026-06-14 21-09-37" src="https://github.com/user-attachments/assets/4bf6672d-b983-4663-aaac-df4e0b940a19" />
 
 
 ### PDF Preview
 
-![Preview]<img width="1023" height="750" alt="Screenshot from 2026-06-14 21-11-25" src="https://github.com/user-attachments/assets/13f39cd2-f0d4-4f4c-a24b-2a33e27df046" />
+<img width="1023" height="750" alt="Screenshot from 2026-06-14 21-11-25" src="https://github.com/user-attachments/assets/13f39cd2-f0d4-4f4c-a24b-2a33e27df046" />
 <img width="1036" height="770" alt="Screenshot from 2026-06-14 21-10-29" src="https://github.com/user-attachments/assets/de4b67fc-0d73-43c7-be67-4b3792311123" />
 
 
